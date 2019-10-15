@@ -1,0 +1,25 @@
+{
+  "name": "socket_io_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaharaKazuki/socket_io_sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaharaKazuki/socket_io_sample/issues"
+  },
+  "homepage": "https://github.com/TaharaKazuki/socket_io_sample#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
